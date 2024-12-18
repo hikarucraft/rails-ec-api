@@ -17,7 +17,7 @@ module EcApi
     config.autoload_lib(ignore: %w[assets tasks])
     config.time_zone = 'Tokyo'
 
-    config.paths.add "lib", eager_load: truef
+    config.paths.add "lib", eager_load: true
 
     # Configuration for the application, engines, and railties goes here.
     #
