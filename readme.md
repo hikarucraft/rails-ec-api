@@ -1,1 +1,1 @@
-# Rails API for ECommerce
+# Rails ECommerce API
